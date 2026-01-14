@@ -10,5 +10,3 @@ close pr
 **#dev 브랜치에서 readmd 수정**
 # 메인 브랜치에서 추가 작업
 # 메인 수정
-vscode에서 readme 추가했다.
-vscode에서 readme 2번째 추가했다.
