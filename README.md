@@ -1,2 +1,2 @@
 # git-conflict-demo
-# 리드민 생성
+# 리드만 생성
